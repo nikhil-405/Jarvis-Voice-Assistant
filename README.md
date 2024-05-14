@@ -23,6 +23,10 @@ $ pip install wikipedia
 $ pip install pyautogui  
 ```
 
+```
+pip install rich
+```
+
 And if you need AI functionalities, also run the command: 
 ```
 $ pip install openai    
